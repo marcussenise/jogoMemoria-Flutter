@@ -1,16 +1,14 @@
-# jogomemoria
+# Jogo da memória / Matching game
 
-A new Flutter project.
+Um jogo da memória criado com Flutter com avatares do Github! 
+O jogo possui 3 níveis de dificuldade e em cada jogo há uma contagem de pontos e jogadas: 
 
-## Getting Started
+### Home:
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/77711349/137750513-0bddedba-2708-4bfc-8c2b-75d8740b7742.png)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/77711349/137750734-0c7fc2cc-8959-4686-a81b-ecb75de3ce39.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![image](https://user-images.githubusercontent.com/77711349/137750801-2fd4fd34-f5a5-4b41-a37f-450a485eecb9.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
