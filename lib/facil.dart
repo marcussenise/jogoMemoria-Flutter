@@ -76,8 +76,6 @@ class _FacilState extends State<Facil> {
                     shrinkWrap: true,
                     gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
                       crossAxisCount: 3,
-                      // crossAxisSpacing: 5.0,
-                      // mainAxisSpacing: 5.0,
                     ),
                     children: List.generate(12, (index) {
                       return Tile(

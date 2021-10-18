@@ -76,9 +76,6 @@ class _DificilState extends State<Dificil> {
                     shrinkWrap: true,
                     gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
                       crossAxisCount: 4,
-                      // maxCrossAxisExtent: 120,
-                      // crossAxisSpacing: 5.0,
-                      // mainAxisSpacing: 5.0,
                     ),
                     children: List.generate(20, (index) {
                       return Tile(
